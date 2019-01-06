@@ -1,0 +1,34 @@
+<!doctype>					: specifies that the doc. is HTML5.
+<title>						: heading of the weboage
+<body>						: area for contents of the webpage.
+<hn>(n=1-6)					: heading size in descending order.
+<img src="pathOfFile>				: to add the image from the pc.
+<ul>						: for unordered list tags.
+	<li>					
+	<li>					: list elements
+<p> 						: paragraph 
+<form>						: creates form that collects user inputs.
+<a href="bla.bla@eg.com"			: to insret the link in the page.[note: link maybe within the page or another page.
+<div>						: gropus the no. of tags in html.
+
+
+	
+	
+	
+	
+Inline tags : tags when used in html code doesnot changes the paragraph.
+			  can be useful when changing the specific things in the website.
+eg: <span>,<b>,<i>,<a>,<abbr>,<acronym>,<b>,<bdo>,<big>,<br>,<button>,<cite>,<code>,<dfn>,<em>,<i>,<img>.. many more.
+
+Block tags	: tags when used in html code changes the paragraph.
+eg:	<address>,<article>,<aside>,<blockquote>
+
+Singleton tags : that doesnot requires the closing tags.
+eg: <br />, <img>,<input>,<source>..
+
+<img src="eg.jpg" alt="eg.com" width="50" height="50">
+
+
+specifiers : helps css to get access to parts of  html code .
+<div  class:"apple">
+<p id:"jumla apple">
